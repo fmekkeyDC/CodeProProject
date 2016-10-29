@@ -1,0 +1,1087 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"View",
+				"View-make\tView-make"
+			],
+			[
+				"total_inv",
+				"total_invoice_pay"
+			],
+			[
+				"total_in",
+				"total_invoice_pay"
+			],
+			[
+				"numOf",
+				"numOfWeeks"
+			],
+			[
+				"num",
+				"numOfDays"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"b5"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"inser",
+				"insertData"
+			],
+			[
+				"listOf",
+				"listOfServices"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"In",
+				"Input-get\tInput-get"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"provider",
+				"provider_name"
+			],
+			[
+				"Input",
+				"Input-get\tInput-get"
+			],
+			[
+				"DB",
+				"DB-getQueryLog\tDB-getQueryLog"
+			],
+			[
+				"search",
+				"searchChildrenDataData"
+			],
+			[
+				"item_ty",
+				"items_type_definer"
+			],
+			[
+				"item",
+				"item_code"
+			],
+			[
+				"setTime",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"key",
+				"keyup\tEvent"
+			],
+			[
+				"Response",
+				"Response-json\tResponse-json"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"Inp",
+				"Input-get\tInput-get"
+			],
+			[
+				"getUsers",
+				"getUsersTableQuery"
+			],
+			[
+				"userApps",
+				"usersAppsRight"
+			],
+			[
+				"Req",
+				"Request-ajax\tRequest-ajax"
+			],
+			[
+				"applicat",
+				"applications"
+			],
+			[
+				"applica",
+				"applications"
+			],
+			[
+				"Resp",
+				"Response-json\tResponse-json"
+			],
+			[
+				"com",
+				"complete\tEvent"
+			],
+			[
+				"return",
+				"returnMethod"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Auth",
+				"Auth-user\tAuth-user"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 7458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 16589,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layout/barcode_report.blade.php",
+			"settings":
+			{
+				"buffer_size": 5864,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/mirage/Desktop/test.html",
+			"settings":
+			{
+				"buffer_size": 4915,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/layout/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 2655,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/layout/footer.blade.php",
+			"settings":
+			{
+				"buffer_size": 10217,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/report.php",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/layout/print_barcodes.blade.php",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/layout/js/code39.js",
+			"settings":
+			{
+				"buffer_size": 14490,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/layout/css/main.rtl.css",
+			"settings":
+			{
+				"buffer_size": 63665,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 728.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/myzoo",
+		"/D/xampp/htdocs/myzoo/app",
+		"/D/xampp/htdocs/myzoo/app/controllers",
+		"/D/xampp/htdocs/myzoo/app/views",
+		"/D/xampp/htdocs/myzoo/app/views/layout",
+		"/D/xampp/htdocs/myzoo/public",
+		"/D/xampp/htdocs/myzoo/public/layout",
+		"/D/xampp/htdocs/myzoo/public/layout/css"
+	],
+	"file_history":
+	[
+		"/C/Users/mirage/Desktop/New folder/2016_09_03_202602_users.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/users_adminstraions.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/store_item_definer.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/shower.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/footer.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/shaving.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/services_definer.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/sell_invoice.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/hosting.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/delete_item_from_stroe.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/cash_control.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/Check.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/define_item_groups.blade.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/itemsGroupController.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/add_items_to_store.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/application_manager.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/content.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/header.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/holder.blade",
+		"/D/xampp/htdocs/myzoo/app/views/layout/holder.blade.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/usersController.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/left.blade.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/shower.php",
+		"/D/xampp/htdocs/myzoo/app/routes.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/shaving.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/Check.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/Hosting.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/HomeController.php",
+		"/D/xampp/htdocs/myzoo/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
+		"/D/xampp/htdocs/myzoo/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+		"/D/xampp/htdocs/myzoo/app/config/app.php",
+		"/D/xampp/htdocs/myzoo/app/storage/views/dd1295fabf404c2febc1bbad2886e405",
+		"/D/xampp/htdocs/myzoo/app/storage/views/ac9fbba560af8305415d9cd7eab3cd62",
+		"/D/xampp/htdocs/myzoo/app/lang/en/validation.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/serviceController.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/storesController.php",
+		"/D/xampp/htdocs/myzoo/app/controllers/servicesController.php",
+		"/D/xampp/htdocs/myzoo/app/storage/views/be1fe7f33284d45d2e48e578dd5b7b34",
+		"/D/xampp/htdocs/myzoo/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/xampp/htdocs/myzoo/public/layout/js/select2.js",
+		"/D/xampp/htdocs/myzoo/public/layout/lib/jquery/jquery.js",
+		"/D/xampp/htdocs/myzoo/app/views/layout/login.blade.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_03_202928_applications.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233004_create_applications.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233420_create_delete_items_from_store.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233449_create_store_items.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233547_create_soldItems.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_232943_create_users.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_18_214457_create_animal_type_for_services.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233208_create_animal_type_for_services.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_18_205215_create_items_cash_type_definer.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233241_create_cash_types_definer.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_224304_create_items_type_definer.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233327_create_items_type_definer.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_223950_create_services_definer.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233356_create_services_definer.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_223902_create_delete_items_from_stores.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_223515_create_store_items.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_223428_create_record_cash.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233522_create_record_cash.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_223147_create_sold.php",
+		"/C/Users/mirage/Desktop/New folder/2016_09_17_222936_create_items_define_tables.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_233620_create_item_definer.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_214457_create_animal_type_for_services.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_224304_create_items_type_definer.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_223902_create_delete_items_from_stores.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_223515_create_store_items.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_223428_create_record_cash.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_223147_create_sold.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_222936_create_items_define_tables.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_03_202928_applications.php",
+		"/D/xampp/htdocs/myzoo/app/config/session.php",
+		"/D/xampp/htdocs/myzoo/app/views/layout/navbar.blade.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_17_223950_create_services_definer.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_03_202602_users.php",
+		"/D/xampp/htdocs/myzoo/app/database/migrations/2016_09_18_205215_create_items_cash_type_definer.php",
+		"/D/xampp/htdocs/myzoo/app/storage/sessions/93cf66dbd9acf0ee9d12370a7ec1bd2df2b470f0",
+		"/D/xampp/htdocs/myzoo/app/storage/sessions/1f1607da85fa0274e612d28ca1d76b874de2adfd",
+		"/D/xampp/htdocs/myzoo/app/models/User.php",
+		"/D/xampp/htdocs/myzoo/public/layout/css/main.rtl.css",
+		"/D/New folder (3)/Bootstrap-Admin-Template-master/public/rtl/login.html",
+		"/D/xampp/htdocs/myzoo/public/layout/js/app.js",
+		"/C/Users/mirage/Desktop/Bootstrap-Admin-Template-master/public/rtl/index.html",
+		"/C/Users/mirage/Desktop/Bootstrap-Admin-Template-master/public/table.html",
+		"/D/xampp/htdocs/myzoo/app/storage/views/.gitignore",
+		"/D/xampp/htdocs/myzoo/app/storage/views/0bdd2f28fe830b42295c3e58b5570cce",
+		"/D/xampp/htdocs/myzoo/public/layout/js/core.js",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/form-general.html",
+		"/D/xampp/htdocs/myzoo/app/controllers/applicationController.php",
+		"/D/xampp/htdocs/myzoo/public/layout/lib/metismenu/metisMenu.js",
+		"/D/xampp/htdocs/myzoo/public/layout/lib/metismenu/metisMenu.min.js",
+		"/D/xampp/htdocs/myzoo/public/layout/js/metisMenu.js",
+		"/D/xampp/htdocs/myzoo/public/layout/js/holder.js",
+		"/D/xampp/htdocs/myzoo/public/layout/js/metisMenu.min.js",
+		"/C/Users/mirage/Downloads/Bootstrap-Admin-Template-master/public/rtl/fixed-header-menu.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/dist/main.rtl.css",
+		"/D/xampp/htdocs/myzoo/composer.json",
+		"/D/xampp/htdocs/myzoo/public/layout/lib/bootstrap/css/bootstrap.rtl.css",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/typography.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/bgimage.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/bgcolor.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/alterne.html",
+		"/D/xampp/htdocs/myzoo/public/layout/css/main.css",
+		"/D/xampp/htdocs/myzoo/app/storage/views/4c6fc26482cb9d9e32fa63ed9098a1e2",
+		"/D/xampp/htdocs/myzoo/app/views/layout/right.blade.php",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/typography.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/table.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/sm.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/progress.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/pricing.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/panel.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/offline.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-right-sidebar.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-main-search.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-left-sidebar.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-left-sidebar-main-search.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-left-right-sidebar.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-header.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/no-header-sidebar.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/maps.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/login.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/index.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/icon.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/grid.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/fxhmoxed.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/form-wysiwyg.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/form-wizard.html",
+		"/D/xampp/htdocs/myzoo/app/views/Bootstrap-Admin-Template-master/public/rtl/form-validation.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\myzoo",
+			"D:\\xampp\\htdocs\\myzoo\\app\\views\\layout",
+			"D:\\xampp\\htdocs\\myzoo",
+			"D:\\xampp\\htdocs\\myzoo\\app\\database\\migrations",
+			"D:\\xampp\\htdocs\\myzoo\\public",
+			"D:\\xampp\\htdocs\\myzoo",
+			"D:\\xampp\\htdocs\\myzoo\\public",
+			"D:\\xampp\\htdocs\\myzoo\\public\\layout\\js",
+			"D:\\xampp\\htdocs\\myzoo\\app\\views\\Bootstrap-Admin-Template-master",
+			"D:\\xampp\\htdocs\\myzoo",
+			"",
+			"D:\\xampp\\htdocs\\myzoo",
+			"D:\\xampp\\htdocs\\myzoo\\public\\layout\\css",
+			"D:\\xampp\\htdocs\\myzoo\\app\\views",
+			"D:\\xampp\\htdocs\\myzoo\\app\\views\\layout"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Human readable",
+			"node",
+			"getItemDataByCode",
+			"select2",
+			"item_type_name",
+			"reports",
+			"item_type_name_edit_",
+			"EditItemGroups",
+			"auto",
+			"app.js",
+			"\"userpassword\" =>",
+			"service_type",
+			"radio",
+			"service_type",
+			"radio",
+			"gender",
+			"gender_exit",
+			"radio",
+			"gender_exit",
+			"radio",
+			"gender",
+			"rad",
+			"check_type",
+			"payment_method",
+			"rad",
+			"radio",
+			"Shaving.",
+			"DB::table(\"Shaving\")",
+			"Shower",
+			"addNewShowerService",
+			"check_date",
+			"addNewApplication",
+			" , \"name\"=>\"app_name\" ",
+			"username",
+			"password",
+			"userpassword",
+			"updated",
+			"append(",
+			"addnewi",
+			"gethost",
+			"notice",
+			"gender",
+			"animal_name",
+			"animal_type",
+			"client_mobile",
+			"check_type",
+			"client_name",
+			"mobile_number",
+			", \"name\"=>\"app_name\"",
+			"الخجمة",
+			"InsertPrice",
+			"$(\".exitAnimal\")",
+			".exitAnimal",
+			"client_name_exit",
+			"col-lg-10",
+			"col-lg-2",
+			"start_date_exist",
+			"function getHostingByID",
+			"لزيارة",
+			"logo46.jpg",
+			"public/layout/img/logo46.jpg",
+			"modal-dialog",
+			"data-toggle=\"modal\"",
+			"Help",
+			"getHostingByID",
+			"<h1> my zoo </h1>",
+			" \"name\"=>\"app_name\" ,",
+			" \"name\"=>\"app_name\" , ",
+			"getInvoiceData",
+			"nextItemID",
+			"wholesale_price",
+			"addNewItemCard",
+			"chose",
+			"getInvoiceData",
+			"sellInvoicedTable",
+			"check_item_net_quantity",
+			"deleted",
+			"coa",
+			"extend",
+			"codepro.jpg",
+			"class ",
+			"date",
+			"solditems",
+			"item_code",
+			"getInvoiceData",
+			"getItemDataByCode",
+			"provider_name",
+			"getNextItemsOnStoresID",
+			"prov",
+			"addons",
+			"client_name",
+			"store_items",
+			"addItemsToStores",
+			"items_total_price",
+			"invoice_notice",
+			"app_route",
+			"items_total_price",
+			"getNextItemsOnStoresID",
+			"item_code",
+			"keyword",
+			"\",\"<>\",\"\")",
+			"searchChildrenDataData",
+			"$keyword",
+			"0",
+			"quantityValue",
+			"keyup",
+			"class=\"inner bg-light lter\"",
+			"my zoo",
+			"keydown",
+			"add_items",
+			"(\"\n",
+			"add_items_to_store",
+			"الأصناف",
+			"applications",
+			"get_items_types",
+			", \"name\"=>\"icon\"",
+			"unsigned",
+			"item_definer_item_type_id_foreign",
+			"invoice_number",
+			"User::find(1)",
+			"password",
+			"applications",
+			"app_route",
+			"parent",
+			"app_name",
+			" btn-sm",
+			"td_type_",
+			"td_route_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"item_name",
+			"\"password\" =>",
+			"shaving.",
+			"DB::table(\"shaving\")",
+			"Shaving",
+			"addNewShavingService",
+			"date",
+			"addNewShowerService",
+			"",
+			"client_mobile",
+			"",
+			"الخدمة",
+			"col-lg-4",
+			"col-lg-6",
+			"الزيارة",
+			"",
+			"keyup",
+			"item_definer",
+			"",
+			"Auth::user()",
+			"userpassword",
+			"users",
+			"app_type",
+			"userpassword",
+			"username",
+			"",
+			"td_rights_",
+			"td_apps_",
+			"التطبيقات",
+			"User::find(3)",
+			"User::find(2)",
+			"مستخدم",
+			"المستخدم",
+			"users_apps",
+			"users_rights",
+			"confuserpassword",
+			"userpassword",
+			"users",
+			"username",
+			"addNewUser",
+			"إسم المستخدم",
+			"users_rights",
+			"users_apps",
+			"userpassword",
+			"username",
+			"../assets/",
+			"assets/",
+			"elements[index]",
+			"الفاتورة",
+			"addNewItemCard",
+			"js",
+			"",
+			"{{$public_path}}",
+			"col-lg-10",
+			"col-lg-2",
+			"form-group pull-right",
+			"public/layout/img/pattern/arches.png",
+			"public/layout/",
+			"public/layout",
+			"{{$public_path}}",
+			"{{$public_path}}/layout/assets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5116,
+								5130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 940.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/layout/barcode_report.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5729,
+								5665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/mirage/Desktop/test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/layout/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1766,
+								1766
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/layout/footer.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3946,
+								3897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/report.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								869
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/layout/print_barcodes.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1286,
+								1286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/layout/js/code39.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6275,
+								6275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/layout/css/main.rtl.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myzoo.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sessio",
+				"app\\config\\session.php"
+			],
+			[
+				"eloquentuserprovider",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\EloquentUserProvider.php"
+			],
+			[
+				"main",
+				"public\\layout\\css\\main.rtl.css"
+			],
+			[
+				"ro",
+				"app\\routes.php"
+			],
+			[
+				"rou",
+				"app\\routes.php"
+			],
+			[
+				"app.js",
+				"public\\layout\\js\\app.js"
+			],
+			[
+				"app.",
+				"public\\layout\\js\\app.js"
+			],
+			[
+				"core",
+				"public\\layout\\js\\core.js"
+			],
+			[
+				"main.css",
+				"public\\layout\\css\\main.rtl.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
